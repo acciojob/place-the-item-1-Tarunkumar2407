@@ -3,7 +3,7 @@
 	padding:0;
 	box-sizing: border-box;
 }
-.container{
+.holder{
 	display:flex;
 	flex-direction: row;
 	flex-wrap: wrap;
